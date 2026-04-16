@@ -1,0 +1,6 @@
+segment,game_count,avg_playtime,avg_price,avg_rating,churn_rate,pct_multiplayer,avg_owners
+Achievement hunters,137,18.781,4.372,0.6,0.847,0.015,25072.993
+Casual browsers,19649,44.135,5.779,0.652,0.812,0.0,46498.55
+Free-to-play,2371,24.259,0.0,0.689,0.73,0.337,112764.656
+Mega hits,516,1033.045,12.937,0.822,0.0,0.5,2314137.597
+Multiplayer mid-tier,4117,63.538,9.639,0.674,0.75,0.994,84425.553
